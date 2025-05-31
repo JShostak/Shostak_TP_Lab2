@@ -9,4 +9,3 @@ if __name__ == '__main__':
     print(f"({num1} + {num2}) = {add(num1, num2)}")
     print(f"({num1} - {num2}) = {subtract(num1, num2)}")
     print("Базовий калькулятор готовий")
-    print("xD")
